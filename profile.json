@@ -3,7 +3,7 @@
   "username": "qppd",
   "login": "qppd",
   "avatar_url": "https://raw.githubusercontent.com/qppd/stackfolio-data/main/assets/profile.png",
-  "full_name": "Your Name",
+  "full_name": "Quezon Province Programmers & Developers",
   "headline": "Building the future, one line at a time.",
   "bio": "Full-Stack Developer passionate about clean code and great UX.",
   "status": "Status: Open to Opportunities",
@@ -20,15 +20,15 @@
   "contact_url": "",
   "project_links": {},
   "about": [
-    "\n        I am a passionate developer who loves building fast, scalable, and intelligent systems.\n      ",
-    "\n        I enjoy shipping products end-to-end, from backend architecture to polished UI.\n      "
+    "\n        \n        I am a passionate developer who loves building fast, scalable, and intelligent systems.\n      \n      ",
+    "\n        \n        I enjoy shipping products end-to-end, from backend architecture to polished UI.\n      \n      "
   ],
   "projects": [
     {
       "id": "stackfolio-starter",
-      "number": "\n          01\n        ",
-      "title": "\n        Stackfolio Starter\n      ",
-      "desc": "\n        A customizable developer portfolio with inline editing, GitHub-backed storage, and responsive design.\n      ",
+      "number": "\n          \n          01\n        \n        ",
+      "title": "\n        \n        Stackfolio Starter\n      \n      ",
+      "desc": "\n        \n        A customizable developer portfolio with inline editing, GitHub-backed storage, and responsive design.\n      \n      ",
       "status": "LIVE",
       "ribbon_status": "LIVE",
       "badge_status": "LIVE",
@@ -42,9 +42,9 @@
     },
     {
       "id": "taskflow-api",
-      "number": "\n          02\n        ",
-      "title": "\n        TaskFlow API\n      ",
-      "desc": "\n        A REST API for task planning with auth, role-based access, and analytics dashboards.\n      ",
+      "number": "\n          \n          02\n        \n        ",
+      "title": "\n        \n        TaskFlow API\n      \n      ",
+      "desc": "\n        \n        A REST API for task planning with auth, role-based access, and analytics dashboards.\n      \n      ",
       "status": "BETA",
       "ribbon_status": "BETA",
       "badge_status": "BETA",
@@ -59,19 +59,19 @@
   ],
   "experience": [
     {
-      "role": "\n          Full Stack Developer Intern\n        ",
-      "company": "\n        Acme Digital Labs\n      ",
-      "duration": "\n          2025 — Present\n        ",
-      "location": "\n        Remote\n      ",
-      "points": "\n        Built reusable UI components and reduced page load time by 32%.Implemented REST endpoints and improved API response consistency.\n      "
+      "role": "\n          \n          Full Stack Developer Intern\n        \n        ",
+      "company": "\n        \n        Acme Digital Labs\n      \n      ",
+      "duration": "\n          \n          2025 — Present\n        \n        ",
+      "location": "\n        \n        Remote\n      \n      ",
+      "points": "\n        \n        Built reusable UI components and reduced page load time by 32%.Implemented REST endpoints and improved API response consistency.\n      \n      "
     }
   ],
   "education": [
     {
-      "degree": "\n          B.Tech in Computer Science\n        ",
-      "school": "\n        Sample University\n      ",
-      "duration": "\n          2021 — 2025\n        ",
-      "extra": "\n        CGPA: 8.9\n      "
+      "degree": "\n          \n          B.Tech in Computer Science\n        \n        ",
+      "school": "\n        \n        Sample University\n      \n      ",
+      "duration": "\n          \n          2021 — 2025\n        \n        ",
+      "extra": "\n        \n        CGPA: 8.9\n      \n      "
     }
   ],
   "skills": {
@@ -98,20 +98,20 @@
   },
   "stats": [
     {
-      "value": "\n        15+\n      ",
-      "label": "\n        Projects\n      "
+      "value": "\n        \n        15+\n      \n      ",
+      "label": "\n        \n        Projects\n      \n      "
     },
     {
-      "value": "\n        2K+\n      ",
-      "label": "\n        GitHub Stars\n      "
+      "value": "\n        \n        2K+\n      \n      ",
+      "label": "\n        \n        GitHub Stars\n      \n      "
     },
     {
-      "value": "\n        2+\n      ",
-      "label": "\n        Years Exp\n      "
+      "value": "\n        \n        2+\n      \n      ",
+      "label": "\n        \n        Years Exp\n      \n      "
     },
     {
-      "value": "\n        10K+\n      ",
-      "label": "\n        Users\n      "
+      "value": "\n        \n        10K+\n      \n      ",
+      "label": "\n        \n        Users\n      \n      "
     }
   ],
   "hidden_sections": [],
