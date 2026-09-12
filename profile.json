@@ -20,15 +20,15 @@
   "contact_url": "https://www.facebook.com/QUEZONPROVINCEDEVS",
   "project_links": {},
   "about": [
-    "\n        \n        \n        \n        I am a passionate developer who loves building fast, scalable, and intelligent systems.\n      \n      \n      \n      ",
-    "\n        \n        \n        \n        I enjoy shipping products end-to-end, from backend architecture to polished UI.\n      \n      \n      \n      "
+    "\n        \n        \n        \n        \n        I am a passionate developer who loves building fast, scalable, and intelligent systems.\n      \n      \n      \n      \n      ",
+    "\n        \n        \n        \n        \n        I enjoy shipping products end-to-end, from backend architecture to polished UI.\n      \n      \n      \n      \n      "
   ],
   "projects": [
     {
       "id": "stackfolio-starter",
-      "number": "\n          \n          \n          \n          01\n        \n        \n        \n        ",
-      "title": "\n        \n        \n        \n        Stackfolio Starter\n      \n      \n      \n      ",
-      "desc": "\n        \n        \n        \n        A customizable developer portfolio with inline editing, GitHub-backed storage, and responsive design.\n      \n      \n      \n      ",
+      "number": "\n          \n          \n          \n          \n          01\n        \n        \n        \n        \n        ",
+      "title": "\n        \n        \n        \n        \n        Stackfolio Starter\n      \n      \n      \n      \n      ",
+      "desc": "\n        \n        \n        \n        \n        A customizable developer portfolio with inline editing, GitHub-backed storage, and responsive design.\n      \n      \n      \n      \n      ",
       "status": "LIVE",
       "ribbon_status": "LIVE",
       "badge_status": "LIVE",
@@ -42,9 +42,9 @@
     },
     {
       "id": "taskflow-api",
-      "number": "\n          \n          \n          \n          02\n        \n        \n        \n        ",
-      "title": "\n        \n        \n        \n        TaskFlow API\n      \n      \n      \n      ",
-      "desc": "\n        \n        \n        \n        A REST API for task planning with auth, role-based access, and analytics dashboards.\n      \n      \n      \n      ",
+      "number": "\n          \n          \n          \n          \n          02\n        \n        \n        \n        \n        ",
+      "title": "\n        \n        \n        \n        \n        TaskFlow API\n      \n      \n      \n      \n      ",
+      "desc": "\n        \n        \n        \n        \n        A REST API for task planning with auth, role-based access, and analytics dashboards.\n      \n      \n      \n      \n      ",
       "status": "BETA",
       "ribbon_status": "BETA",
       "badge_status": "BETA",
@@ -59,19 +59,19 @@
   ],
   "experience": [
     {
-      "role": "\n          \n          \n          \n          Full Stack Developer Intern\n        \n        \n        \n        ",
-      "company": "\n        \n        \n        \n        Acme Digital Labs\n      \n      \n      \n      ",
-      "duration": "\n          \n          \n          \n          2025 — Present\n        \n        \n        \n        ",
-      "location": "\n        \n        \n        \n        Remote\n      \n      \n      \n      ",
-      "points": "\n        \n        \n        \n        Built reusable UI components and reduced page load time by 32%.Implemented REST endpoints and improved API response consistency.\n      \n      \n      \n      "
+      "role": "Full Stack Android Java Developer",
+      "company": "Key Solution Inc.",
+      "duration": "2016 — 2017",
+      "location": "Pasig City",
+      "points": "\n      Achievement 1\n      Achievement 2\n    "
     }
   ],
   "education": [
     {
-      "degree": "\n          \n          \n          \n          B.Tech in Computer Science\n        \n        \n        \n        ",
-      "school": "\n        \n        \n        \n        Sample University\n      \n      \n      \n      ",
-      "duration": "\n          \n          \n          \n          2021 — 2025\n        \n        \n        \n        ",
-      "extra": "\n        \n        \n        \n        CGPA: 8.9\n      \n      \n      \n      "
+      "degree": "BSIT",
+      "school": "AMA Computer College Lucena",
+      "duration": "2011— 2015",
+      "extra": "Additional Info"
     }
   ],
   "skills": {
@@ -98,20 +98,20 @@
   },
   "stats": [
     {
-      "value": "\n        \n        \n        \n        15+\n      \n      \n      \n      ",
-      "label": "\n        \n        \n        \n        Projects\n      \n      \n      \n      "
+      "value": "\n        \n        \n        \n        \n        15+\n      \n      \n      \n      \n      ",
+      "label": "\n        \n        \n        \n        \n        Projects\n      \n      \n      \n      \n      "
     },
     {
-      "value": "\n        \n        \n        \n        2K+\n      \n      \n      \n      ",
-      "label": "\n        \n        \n        \n        GitHub Stars\n      \n      \n      \n      "
+      "value": "\n        \n        \n        \n        \n        2K+\n      \n      \n      \n      \n      ",
+      "label": "\n        \n        \n        \n        \n        GitHub Stars\n      \n      \n      \n      \n      "
     },
     {
-      "value": "\n        \n        \n        \n        2+\n      \n      \n      \n      ",
-      "label": "\n        \n        \n        \n        Years Exp\n      \n      \n      \n      "
+      "value": "\n        \n        \n        \n        \n        2+\n      \n      \n      \n      \n      ",
+      "label": "\n        \n        \n        \n        \n        Years Exp\n      \n      \n      \n      \n      "
     },
     {
-      "value": "\n        \n        \n        \n        10K+\n      \n      \n      \n      ",
-      "label": "\n        \n        \n        \n        Users\n      \n      \n      \n      "
+      "value": "\n        \n        \n        \n        \n        10K+\n      \n      \n      \n      \n      ",
+      "label": "\n        \n        \n        \n        \n        Users\n      \n      \n      \n      \n      "
     }
   ],
   "hidden_sections": [],
