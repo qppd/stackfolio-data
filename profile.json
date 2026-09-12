@@ -1,0 +1,115 @@
+{
+  "github_id": 140778693,
+  "username": "qppd",
+  "login": "qppd",
+  "avatar_url": "https://raw.githubusercontent.com/qppd/stackfolio-data/main/assets/profile.svg",
+  "full_name": "Your Name",
+  "headline": "Building the future, one line at a time.",
+  "bio": "Full-Stack Developer passionate about clean code and great UX.",
+  "status": "Status: Open to Opportunities",
+  "brand": "STACKFOLIO",
+  "resume_label": "Download Resume",
+  "contact_text": "Open to internships, collaborations, and interesting problems.",
+  "social_links": {
+    "github": "https://github.com/qppd",
+    "linkedin": "",
+    "twitter": "",
+    "email": ""
+  },
+  "resume_url": "https://raw.githubusercontent.com/qppd/stackfolio-data/main/assets/resume.txt",
+  "contact_url": "",
+  "project_links": {},
+  "about": [
+    "I am a passionate developer who loves building fast, scalable, and intelligent systems.",
+    "I enjoy shipping products end-to-end, from backend architecture to polished UI."
+  ],
+  "projects": [
+    {
+      "id": "stackfolio-starter",
+      "number": "01",
+      "title": "Stackfolio Starter",
+      "desc": "A customizable developer portfolio with inline editing, GitHub-backed storage, and responsive design.",
+      "status": "LIVE",
+      "image_url": "",
+      "skills": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "GitHub API"
+      ]
+    },
+    {
+      "id": "taskflow-api",
+      "number": "02",
+      "title": "TaskFlow API",
+      "desc": "A REST API for task planning with auth, role-based access, and analytics dashboards.",
+      "status": "BETA",
+      "image_url": "",
+      "skills": [
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "JWT"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Full Stack Developer Intern",
+      "company": "Acme Digital Labs",
+      "duration": "2025 — Present",
+      "location": "Remote",
+      "points": "<li>Built reusable UI components and reduced page load time by 32%.</li><li>Implemented REST endpoints and improved API response consistency.</li>"
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science",
+      "school": "Sample University",
+      "duration": "2021 — 2025",
+      "extra": "CGPA: 8.9"
+    }
+  ],
+  "skills": {
+    "languages": [
+      "Python",
+      "TypeScript",
+      "Go"
+    ],
+    "frameworks": [
+      "React",
+      "Next.js",
+      "FastAPI"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MongoDB",
+      "FAISS"
+    ],
+    "devops": [
+      "Docker",
+      "AWS",
+      "GitHub Actions"
+    ]
+  },
+  "stats": [
+    {
+      "value": "15+",
+      "label": "Projects"
+    },
+    {
+      "value": "2K+",
+      "label": "GitHub Stars"
+    },
+    {
+      "value": "2+",
+      "label": "Years Exp"
+    },
+    {
+      "value": "10K+",
+      "label": "Users"
+    }
+  ],
+  "hidden_sections": [],
+  "created_at": "2026-09-12T12:20:19.766Z"
+}
