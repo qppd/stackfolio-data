@@ -2,7 +2,7 @@
   "github_id": 140778693,
   "username": "qppd",
   "login": "qppd",
-  "avatar_url": "https://raw.githubusercontent.com/qppd/stackfolio-data/main/assets/profile.svg",
+  "avatar_url": "https://raw.githubusercontent.com/qppd/stackfolio-data/main/assets/profile.png",
   "full_name": "Your Name",
   "headline": "Building the future, one line at a time.",
   "bio": "Full-Stack Developer passionate about clean code and great UX.",
@@ -20,16 +20,18 @@
   "contact_url": "",
   "project_links": {},
   "about": [
-    "I am a passionate developer who loves building fast, scalable, and intelligent systems.",
-    "I enjoy shipping products end-to-end, from backend architecture to polished UI."
+    "\n        I am a passionate developer who loves building fast, scalable, and intelligent systems.\n      ",
+    "\n        I enjoy shipping products end-to-end, from backend architecture to polished UI.\n      "
   ],
   "projects": [
     {
       "id": "stackfolio-starter",
-      "number": "01",
-      "title": "Stackfolio Starter",
-      "desc": "A customizable developer portfolio with inline editing, GitHub-backed storage, and responsive design.",
+      "number": "\n          01\n        ",
+      "title": "\n        Stackfolio Starter\n      ",
+      "desc": "\n        A customizable developer portfolio with inline editing, GitHub-backed storage, and responsive design.\n      ",
       "status": "LIVE",
+      "ribbon_status": "LIVE",
+      "badge_status": "LIVE",
       "image_url": "",
       "skills": [
         "JavaScript",
@@ -40,10 +42,12 @@
     },
     {
       "id": "taskflow-api",
-      "number": "02",
-      "title": "TaskFlow API",
-      "desc": "A REST API for task planning with auth, role-based access, and analytics dashboards.",
+      "number": "\n          02\n        ",
+      "title": "\n        TaskFlow API\n      ",
+      "desc": "\n        A REST API for task planning with auth, role-based access, and analytics dashboards.\n      ",
       "status": "BETA",
+      "ribbon_status": "BETA",
+      "badge_status": "BETA",
       "image_url": "",
       "skills": [
         "Node.js",
@@ -55,19 +59,19 @@
   ],
   "experience": [
     {
-      "role": "Full Stack Developer Intern",
-      "company": "Acme Digital Labs",
-      "duration": "2025 — Present",
-      "location": "Remote",
-      "points": "<li>Built reusable UI components and reduced page load time by 32%.</li><li>Implemented REST endpoints and improved API response consistency.</li>"
+      "role": "\n          Full Stack Developer Intern\n        ",
+      "company": "\n        Acme Digital Labs\n      ",
+      "duration": "\n          2025 — Present\n        ",
+      "location": "\n        Remote\n      ",
+      "points": "\n        Built reusable UI components and reduced page load time by 32%.Implemented REST endpoints and improved API response consistency.\n      "
     }
   ],
   "education": [
     {
-      "degree": "B.Tech in Computer Science",
-      "school": "Sample University",
-      "duration": "2021 — 2025",
-      "extra": "CGPA: 8.9"
+      "degree": "\n          B.Tech in Computer Science\n        ",
+      "school": "\n        Sample University\n      ",
+      "duration": "\n          2021 — 2025\n        ",
+      "extra": "\n        CGPA: 8.9\n      "
     }
   ],
   "skills": {
@@ -94,20 +98,20 @@
   },
   "stats": [
     {
-      "value": "15+",
-      "label": "Projects"
+      "value": "\n        15+\n      ",
+      "label": "\n        Projects\n      "
     },
     {
-      "value": "2K+",
-      "label": "GitHub Stars"
+      "value": "\n        2K+\n      ",
+      "label": "\n        GitHub Stars\n      "
     },
     {
-      "value": "2+",
-      "label": "Years Exp"
+      "value": "\n        2+\n      ",
+      "label": "\n        Years Exp\n      "
     },
     {
-      "value": "10K+",
-      "label": "Users"
+      "value": "\n        10K+\n      ",
+      "label": "\n        Users\n      "
     }
   ],
   "hidden_sections": [],
