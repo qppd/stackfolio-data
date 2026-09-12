@@ -16,19 +16,19 @@
     "twitter": "",
     "email": "quezon.province.pd@gmail.com"
   },
-  "resume_url": "https://raw.githubusercontent.com/qppd/stackfolio-data/main/assets/resume.txt",
+  "resume_url": "https://raw.githubusercontent.com/qppd/stackfolio-data/main/assets/resume.docx",
   "contact_url": "",
   "project_links": {},
   "about": [
-    "\n        \n        I am a passionate developer who loves building fast, scalable, and intelligent systems.\n      \n      ",
-    "\n        \n        I enjoy shipping products end-to-end, from backend architecture to polished UI.\n      \n      "
+    "\n        \n        \n        I am a passionate developer who loves building fast, scalable, and intelligent systems.\n      \n      \n      ",
+    "\n        \n        \n        I enjoy shipping products end-to-end, from backend architecture to polished UI.\n      \n      \n      "
   ],
   "projects": [
     {
       "id": "stackfolio-starter",
-      "number": "\n          \n          01\n        \n        ",
-      "title": "\n        \n        Stackfolio Starter\n      \n      ",
-      "desc": "\n        \n        A customizable developer portfolio with inline editing, GitHub-backed storage, and responsive design.\n      \n      ",
+      "number": "\n          \n          \n          01\n        \n        \n        ",
+      "title": "\n        \n        \n        Stackfolio Starter\n      \n      \n      ",
+      "desc": "\n        \n        \n        A customizable developer portfolio with inline editing, GitHub-backed storage, and responsive design.\n      \n      \n      ",
       "status": "LIVE",
       "ribbon_status": "LIVE",
       "badge_status": "LIVE",
@@ -42,9 +42,9 @@
     },
     {
       "id": "taskflow-api",
-      "number": "\n          \n          02\n        \n        ",
-      "title": "\n        \n        TaskFlow API\n      \n      ",
-      "desc": "\n        \n        A REST API for task planning with auth, role-based access, and analytics dashboards.\n      \n      ",
+      "number": "\n          \n          \n          02\n        \n        \n        ",
+      "title": "\n        \n        \n        TaskFlow API\n      \n      \n      ",
+      "desc": "\n        \n        \n        A REST API for task planning with auth, role-based access, and analytics dashboards.\n      \n      \n      ",
       "status": "BETA",
       "ribbon_status": "BETA",
       "badge_status": "BETA",
@@ -59,19 +59,19 @@
   ],
   "experience": [
     {
-      "role": "\n          \n          Full Stack Developer Intern\n        \n        ",
-      "company": "\n        \n        Acme Digital Labs\n      \n      ",
-      "duration": "\n          \n          2025 — Present\n        \n        ",
-      "location": "\n        \n        Remote\n      \n      ",
-      "points": "\n        \n        Built reusable UI components and reduced page load time by 32%.Implemented REST endpoints and improved API response consistency.\n      \n      "
+      "role": "\n          \n          \n          Full Stack Developer Intern\n        \n        \n        ",
+      "company": "\n        \n        \n        Acme Digital Labs\n      \n      \n      ",
+      "duration": "\n          \n          \n          2025 — Present\n        \n        \n        ",
+      "location": "\n        \n        \n        Remote\n      \n      \n      ",
+      "points": "\n        \n        \n        Built reusable UI components and reduced page load time by 32%.Implemented REST endpoints and improved API response consistency.\n      \n      \n      "
     }
   ],
   "education": [
     {
-      "degree": "\n          \n          B.Tech in Computer Science\n        \n        ",
-      "school": "\n        \n        Sample University\n      \n      ",
-      "duration": "\n          \n          2021 — 2025\n        \n        ",
-      "extra": "\n        \n        CGPA: 8.9\n      \n      "
+      "degree": "\n          \n          \n          B.Tech in Computer Science\n        \n        \n        ",
+      "school": "\n        \n        \n        Sample University\n      \n      \n      ",
+      "duration": "\n          \n          \n          2021 — 2025\n        \n        \n        ",
+      "extra": "\n        \n        \n        CGPA: 8.9\n      \n      \n      "
     }
   ],
   "skills": {
@@ -98,20 +98,20 @@
   },
   "stats": [
     {
-      "value": "\n        \n        15+\n      \n      ",
-      "label": "\n        \n        Projects\n      \n      "
+      "value": "\n        \n        \n        15+\n      \n      \n      ",
+      "label": "\n        \n        \n        Projects\n      \n      \n      "
     },
     {
-      "value": "\n        \n        2K+\n      \n      ",
-      "label": "\n        \n        GitHub Stars\n      \n      "
+      "value": "\n        \n        \n        2K+\n      \n      \n      ",
+      "label": "\n        \n        \n        GitHub Stars\n      \n      \n      "
     },
     {
-      "value": "\n        \n        2+\n      \n      ",
-      "label": "\n        \n        Years Exp\n      \n      "
+      "value": "\n        \n        \n        2+\n      \n      \n      ",
+      "label": "\n        \n        \n        Years Exp\n      \n      \n      "
     },
     {
-      "value": "\n        \n        10K+\n      \n      ",
-      "label": "\n        \n        Users\n      \n      "
+      "value": "\n        \n        \n        10K+\n      \n      \n      ",
+      "label": "\n        \n        \n        Users\n      \n      \n      "
     }
   ],
   "hidden_sections": [],
